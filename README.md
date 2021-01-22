@@ -6,7 +6,7 @@ In this project, we use Tableau and the Johns Hopkins data set tracking COVID-19
 
 **A preview of the dashboard is shown below:**
 
-[](covid gif.gif)
+![Alt Text](https://github.com/3after2after1/Tableau-COVID-19-Dashboard/blob/main/covid%20gif.gif)
 
 
 
