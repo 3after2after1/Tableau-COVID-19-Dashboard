@@ -5,7 +5,8 @@ In this project, we use Tableau and the Johns Hopkins data set tracking COVID-19
 - Line Chart
 
 **A preview of the dashboard is shown below:**
-![](covid gif.gif)
+
+[](covid gif.gif)
 
 
 
