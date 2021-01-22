@@ -8,5 +8,6 @@ In this project, we use Tableau and the Johns Hopkins data set tracking COVID-19
 
 
 
-Original dataset can be found at [this link](https://www.tableau.com/covid-19-coronavirus-data-resources)
+Original dataset can be found at [this link](https://www.tableau.com/covid-19-coronavirus-data-resources).
+
 This project is inspired by this [youtube tutorial](https://www.youtube.com/watch?v=mvpGTXRLIQc) by [Anthony B. Smoak](https://twitter.com/anthonysmoak)
